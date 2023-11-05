@@ -1,0 +1,24 @@
+{
+  "name": "@raza-aslam/currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {"currency-converter":"main.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@raza-aslam/currency-converter":"1.0.0",
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.2.11",
+    "nodes": "^0.1.0",
+    "types": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.2"
+  }
+}

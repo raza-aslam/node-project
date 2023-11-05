@@ -1,0 +1,22 @@
+{
+  "name": "@raza-aslam/guess-number-game",
+  "version": "1.0.0",
+  "description": "made by raza",
+  "main": "index.js",
+  "type": "module",
+  "bin": {"guess-number-game":"main.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@raza-aslam/guess-number-game":"1.0.0",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}

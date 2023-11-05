@@ -1,0 +1,26 @@
+{
+  "name": "@raza-aslam/atm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "atm": "main.js"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.4",
+    "@types/node": "^20.8.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "raza",
+  "license": "ISC",
+  "dependencies": {
+    "@raza-aslam/atm":"^1.0.1",
+    "inquirer": "^9.2.11",
+    "node": "^20.7.0",
+    "type": "^2.7.2"
+  },
+  "description": ""
+}

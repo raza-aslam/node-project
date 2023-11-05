@@ -1,0 +1,21 @@
+{
+  "name": "@raza-aslam/countdown-timer",
+  "version": "1.0.0",
+  "description": "made by raza",
+  "main": "index.js",
+  "bin": {"countdown-timer":"main.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "raza",
+  "license": "ISC",
+  "dependencies": {
+    "@raza-aslam/countdown-timer":"1.0.0",
+    "@types/inquirer": "^9.0.4",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.5"
+  }
+}
